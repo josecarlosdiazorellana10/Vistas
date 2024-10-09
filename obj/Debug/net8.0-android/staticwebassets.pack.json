@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\josec\\OneDrive\\Escritorio\\Proyect\\AppViajes\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\AppViajes.styles.css",
+      "PackagePath": "staticwebassets\\AppViajes.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\josec\\OneDrive\\Escritorio\\Proyect\\AppViajes\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\josec\\OneDrive\\Escritorio\\Proyect\\AppViajes\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\josec\\OneDrive\\Escritorio\\Proyect\\AppViajes\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\josec\\OneDrive\\Escritorio\\Proyect\\AppViajes\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\josec\\OneDrive\\Escritorio\\Proyect\\AppViajes\\wwwroot\\images\\antigua.jpg",
+      "PackagePath": "staticwebassets\\images\\antigua.jpg"
+    },
+    {
+      "Id": "C:\\Users\\josec\\OneDrive\\Escritorio\\Proyect\\AppViajes\\wwwroot\\images\\tropical_background.jpg",
+      "PackagePath": "staticwebassets\\images\\tropical_background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\josec\\OneDrive\\Escritorio\\Proyect\\AppViajes\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.AppViajes.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.AppViajes.props",
+      "PackagePath": "build\\AppViajes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.AppViajes.props",
+      "PackagePath": "buildMultiTargeting\\AppViajes.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.AppViajes.props",
+      "PackagePath": "buildTransitive\\AppViajes.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
